@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="JobFinder.BLL/JobFinder.BLL.csproj" />
+  <Project Path="JobFinder.DAL/JobFinder.DAL.csproj" />
+  <Project Path="JobFinder.PL/JobFinder.PL.csproj" />
+</Solution>
