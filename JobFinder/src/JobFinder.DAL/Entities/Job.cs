@@ -14,7 +14,6 @@ namespace JobFinder.DAL.Entities
         public int YearsOfExperience { get; set; }
         public JobStatus Status { get; set; }
         public string Description { get; set; }
-        public string OwnerId { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
         public DateTime? DeletedAt { get; set; }
@@ -23,6 +22,7 @@ namespace JobFinder.DAL.Entities
         public String DeletedBy { get; set; }
         public bool IsDeleted { get; set; }
         
+        public string OwnerId { get; set; }
 
         public ApplicationUser Owner { get; set; }
 
