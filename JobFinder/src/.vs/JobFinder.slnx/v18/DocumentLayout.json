@@ -1,38 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\",
+  "WorkspaceRootPath": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.dal\\configurations\\jobconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261009001802_AddJobValidationConstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobFinder.DAL\\Migrations\\20261009001802_AddJobValidationConstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.dal\\configurations\\jobconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\configurations\\jobconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.dal\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.dal\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.dal\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.dal\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.dal\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.dal\\entities\\enums\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261009001108_AddUniqueJobApplicationIndex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobFinder.DAL\\Migrations\\20261009001108_AddUniqueJobApplicationIndex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.dal\\configurations\\jobapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\configurations\\jobapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261009000555_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobFinder.DAL\\Migrations\\20261009000555_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.dal\\jobfinder.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\jobfinder.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261008235548_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobFinder.DAL\\Migrations\\20261008235548_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.dal\\configurations\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\configurations\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.dal\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.dal\\entities\\enums\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\entities\\enums\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.dal\\configurations\\jobapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F51697-ED1B-D782-6C79-2497C9041870}|JobFinder.DAL\\JobFinder.DAL.csproj|solutionrelative:jobfinder.dal\\configurations\\jobapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\adham saber\\desktop\\jobfinder\\jobfinder\\src\\jobfinder.pl\\jobfinder.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\jobfinder.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,114 +74,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "JobFinder.DAL\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "JobFinder.DAL\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:13:56.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "JobFinder.DAL\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "JobFinder.DAL\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:12:25.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JobApplicationConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\JobApplicationConfiguration.cs",
-              "RelativeDocumentMoniker": "JobFinder.DAL\\Configurations\\JobApplicationConfiguration.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\JobApplicationConfiguration.cs",
-              "RelativeToolTip": "JobFinder.DAL\\Configurations\\JobApplicationConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:08:14.77Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JobConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\JobConfiguration.cs",
-              "RelativeDocumentMoniker": "JobFinder.DAL\\Configurations\\JobConfiguration.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\JobConfiguration.cs",
-              "RelativeToolTip": "JobFinder.DAL\\Configurations\\JobConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Title": "20261009001802_AddJobValidationConstraints.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261009001802_AddJobValidationConstraints.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Migrations\\20261009001802_AddJobValidationConstraints.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261009001802_AddJobValidationConstraints.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Migrations\\20261009001802_AddJobValidationConstraints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:07:39.385Z",
+              "WhenOpened": "2026-10-09T00:18:03.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "20261009001108_AddUniqueJobApplicationIndex.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261009001108_AddUniqueJobApplicationIndex.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Migrations\\20261009001108_AddUniqueJobApplicationIndex.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261009001108_AddUniqueJobApplicationIndex.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Migrations\\20261009001108_AddUniqueJobApplicationIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:11:09.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261009000555_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261009000555_InitialCreate.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Migrations\\20261009000555_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261009000555_InitialCreate.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Migrations\\20261009000555_InitialCreate.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAQwMoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:05:55.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\ApplicationUserConfiguration.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Configurations\\ApplicationUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\ApplicationUserConfiguration.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Configurations\\ApplicationUserConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:26:14.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:12:25.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "JobApplication.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\JobApplication.cs",
               "RelativeDocumentMoniker": "JobFinder.DAL\\Entities\\JobApplication.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\JobApplication.cs",
               "RelativeToolTip": "JobFinder.DAL\\Entities\\JobApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T22:03:30.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Job.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\Job.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\Job.cs",
               "RelativeDocumentMoniker": "JobFinder.DAL\\Entities\\Job.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\Job.cs",
               "RelativeToolTip": "JobFinder.DAL\\Entities\\Job.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:02:42.379Z",
+              "WhenOpened": "2026-10-07T22:02:42.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:01:14.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Enum.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\Enums\\Enum.cs",
-              "RelativeDocumentMoniker": "JobFinder.DAL\\Entities\\Enums\\Enum.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\Enums\\Enum.cs",
-              "RelativeToolTip": "JobFinder.DAL\\Entities\\Enums\\Enum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "JobConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\JobConfiguration.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Configurations\\JobConfiguration.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\JobConfiguration.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Configurations\\JobConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:02:05.67Z",
+              "WhenOpened": "2026-10-07T22:07:39.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "JobFinder.DAL\\Entities\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\ApplicationUser.cs",
-              "RelativeToolTip": "JobFinder.DAL\\Entities\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Title": "JobApplicationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\JobApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Configurations\\JobApplicationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Configurations\\JobApplicationConfiguration.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Configurations\\JobApplicationConfiguration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:01:14.416Z",
+              "WhenOpened": "2026-10-07T22:08:14.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20261008235548_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261008235548_InitialCreate.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Migrations\\20261008235548_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Migrations\\20261008235548_InitialCreate.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Migrations\\20261008235548_InitialCreate.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:55:49.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobFinder.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\JobFinder.DAL.csproj",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\JobFinder.DAL.csproj",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\JobFinder.DAL.csproj",
+              "RelativeToolTip": "JobFinder.DAL\\JobFinder.DAL.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T22:28:39.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\Enums\\Enum.cs",
+              "RelativeDocumentMoniker": "JobFinder.DAL\\Entities\\Enums\\Enum.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.DAL\\Entities\\Enums\\Enum.cs",
+              "RelativeToolTip": "JobFinder.DAL\\Entities\\Enums\\Enum.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:02:05.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
+              "RelativeDocumentMoniker": "JobFinder.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
+              "RelativeToolTip": "JobFinder.PL\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:52:42.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "JobFinder.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
+              "RelativeToolTip": "JobFinder.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T11:34:39.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobFinder.PL.csproj",
+              "DocumentMoniker": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.PL\\JobFinder.PL.csproj",
+              "RelativeDocumentMoniker": "JobFinder.PL\\JobFinder.PL.csproj",
+              "ToolTip": "C:\\Users\\Adham Saber\\Desktop\\JobFinder\\JobFinder\\src\\JobFinder.PL\\JobFinder.PL.csproj",
+              "RelativeToolTip": "JobFinder.PL\\JobFinder.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T22:28:25.14Z",
               "EditorCaption": ""
             }
           ]

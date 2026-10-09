@@ -1,11 +1,26 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using JobFinder.DAL.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
-namespace JobFinder.DAL.Context
+namespace JobFinder.DAL.Context;
+
+public class AppDbContext : IdentityDbContext<ApplicationUser>
 {
-    public class AppDbContext : IdentityDbContext
+    public AppDbContext(
+        DbContextOptions<AppDbContext> options)
+        : base(options)
     {
     }
+
+    protected override void OnModelCreating(ModelBuilder builder)
+    {
+        base.OnModelCreating(builder); 
+        builder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
+    }
+    public DbSet<Job> Jobs { get; set;  }
+
+    public DbSet<JobApplication> JobApplications { get; set; }
+
+
 }
