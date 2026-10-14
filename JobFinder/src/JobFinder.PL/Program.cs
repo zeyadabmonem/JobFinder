@@ -1,7 +1,7 @@
 
-using JobFinder.DAL.Context;
+using JobFinder.API.Extensions;
+using JobFinder.DAL.Data.Context;
 using JobFinder.DAL.Entities;
-using JobFinder.PL.Extensions;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;

@@ -1,9 +1,9 @@
-﻿using JobFinder.DAL.Context;
+﻿using JobFinder.DAL.Data.Context;
 using JobFinder.DAL.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace JobFinder.PL.Extensions;
+namespace JobFinder.API.Extensions;
 
 public static class IdentityServiceExtensions
 {

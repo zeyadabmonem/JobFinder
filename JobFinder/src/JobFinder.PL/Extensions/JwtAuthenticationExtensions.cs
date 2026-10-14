@@ -1,12 +1,9 @@
-﻿using JobFinder.PL.Options;
+﻿using JobFinder.API.Options;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
-namespace JobFinder.PL.Extensions;
+namespace JobFinder.API.Extensions;
 
 public static class JwtAuthenticationExtensions
 {

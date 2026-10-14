@@ -18,10 +18,4 @@
     <ProjectReference Include="..\JobFinder.DAL\JobFinder.DAL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Mapper\" />
-    <Folder Include="Services\Implementation\" />
-    <Folder Include="Services\Interface\" />
-  </ItemGroup>
-
 </Project>

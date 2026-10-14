@@ -1,5 +1,4 @@
-﻿
-namespace JobFinder.PL.Options;
+﻿namespace JobFinder.API.Options;
 
 public class JwtOptions
 {

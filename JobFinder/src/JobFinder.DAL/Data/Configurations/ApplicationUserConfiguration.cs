@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace JobFinder.DAL.Configurations;
+namespace JobFinder.DAL.Data.Configurations;
 
 public class ApplicationUserConfiguration
     : IEntityTypeConfiguration<ApplicationUser>

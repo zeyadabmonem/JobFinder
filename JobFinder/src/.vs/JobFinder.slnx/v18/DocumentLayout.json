@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\extensions\\jwtauthenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\extensions\\jwtauthenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\extensions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\extensions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\extensions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\extensions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
-              "RelativeDocumentMoniker": "JobFinder.PL\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
-              "RelativeToolTip": "JobFinder.PL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-14T15:36:00.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
-              "RelativeDocumentMoniker": "JobFinder.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
-              "RelativeToolTip": "JobFinder.PL\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCUAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:34:11.237Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "JobFinder.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
+              "RelativeToolTip": "JobFinder.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T15:36:00.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
+              "RelativeDocumentMoniker": "JobFinder.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
+              "RelativeToolTip": "JobFinder.PL\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:34:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "JwtOptions.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Options\\JwtOptions.cs",
               "RelativeDocumentMoniker": "JobFinder.PL\\Options\\JwtOptions.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Options\\JwtOptions.cs",
               "RelativeToolTip": "JobFinder.PL\\Options\\JwtOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T15:31:40.729Z",
               "EditorCaption": ""
@@ -83,14 +83,14 @@
               "RelativeDocumentMoniker": "JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
               "RelativeToolTip": "JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwEoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T15:30:33.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IdentityServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Extensions\\IdentityServiceExtensions.cs",
               "RelativeDocumentMoniker": "JobFinder.PL\\Extensions\\IdentityServiceExtensions.cs",
@@ -98,8 +98,7 @@
               "RelativeToolTip": "JobFinder.PL\\Extensions\\IdentityServiceExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:28:12.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:28:12.345Z"
             }
           ]
         }

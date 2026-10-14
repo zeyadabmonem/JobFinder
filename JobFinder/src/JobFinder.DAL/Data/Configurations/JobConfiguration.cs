@@ -1,9 +1,8 @@
-﻿
-using JobFinder.DAL.Entities;
+﻿using JobFinder.DAL.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace JobFinder.DAL.Configurations;
+namespace JobFinder.DAL.Data.Configurations;
 
 public class JobConfiguration : IEntityTypeConfiguration<Job>
 {

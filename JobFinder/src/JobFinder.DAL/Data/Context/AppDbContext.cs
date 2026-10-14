@@ -1,9 +1,8 @@
-﻿
-using JobFinder.DAL.Entities;
+﻿using JobFinder.DAL.Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace JobFinder.DAL.Context;
+namespace JobFinder.DAL.Data.Context;
 
 public class AppDbContext : IdentityDbContext<ApplicationUser>
 {
