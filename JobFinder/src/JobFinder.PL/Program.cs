@@ -25,9 +25,13 @@ namespace JobFinder.PL
                 )
             );
 
+            // DIs
             builder.Services.AddScoped<IJwtTokenService, JwtTokenService>();
             builder.Services.AddScoped<IAuthService, AuthService>();
+            builder.Services.AddScoped<IAuthService, AuthService>();
 
+            // Validators
+            builder.Services.AddValidatorsFromAssemblyContaining<RegisterDTOValidator>();
             builder.Services.AddValidatorsFromAssemblyContaining<RegisterDTOValidator>();
 
             builder.Services.AddOpenApi();
@@ -39,6 +43,13 @@ namespace JobFinder.PL
             builder.Services.AddJwtAuthentication(builder.Configuration);
 
             var app = builder.Build();
+
+            app.UseSwaggerUI(options =>
+            {
+                options.SwaggerEndpoint(
+                    "/openapi/v1.json",
+                    "JobFinder API v1");
+            });
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

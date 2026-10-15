@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
 using Microsoft.AspNetCore.Identity;
 
-namespace JobFinder.BLL.DTOs.Auth;
+namespace JobFinder.BLL.Services.Results;
 
 public class RegisterServiceResult
 {

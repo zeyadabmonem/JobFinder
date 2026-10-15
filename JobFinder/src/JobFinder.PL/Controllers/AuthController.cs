@@ -1,4 +1,5 @@
-﻿using FluentValidation;
+﻿
+using FluentValidation;
 using JobFinder.BLL.DTOs.Auth;
 using JobFinder.BLL.Services.Interface;
 using Microsoft.AspNetCore.Mvc;
@@ -11,13 +12,16 @@ public class AuthController : ControllerBase
 {
     private readonly IAuthService _authService;
     private readonly IValidator<RegisterRequestDTO> _registerValidator;
+    private readonly IValidator<LoginRequestDTO> _loginValidator;
 
     public AuthController(
         IAuthService authService,
-        IValidator<RegisterRequestDTO> registerValidator)
+        IValidator<RegisterRequestDTO> registerValidator,
+        IValidator<LoginRequestDTO> loginValidator)
     {
         _authService = authService;
         _registerValidator = registerValidator;
+        _loginValidator = loginValidator;
     }
 
     [HttpPost("register")]
@@ -28,20 +32,13 @@ public class AuthController : ControllerBase
 
         if (!validation.IsValid)
         {
-            var validationErrors = validation.Errors
+            var errors = validation.Errors
                 .GroupBy(e => e.PropertyName)
                 .ToDictionary(
                     group => group.Key,
                     group => group.Select(e => e.ErrorMessage).ToArray());
 
-            // Create ValidationProblemDetails and populate its Errors
-            var problemDetails = new ValidationProblemDetails();
-            foreach (var kv in validationErrors)
-            {
-                problemDetails.Errors.Add(kv.Key, kv.Value);
-            }
-
-            return ValidationProblem(problemDetails);
+            return ValidationProblem(new ValidationProblemDetails(errors));
         }
 
         var result = await _authService.RegisterAsync(request);
@@ -70,6 +67,39 @@ public class AuthController : ControllerBase
             Message = "Registration completed successfully."
         };
 
-        return StatusCode(StatusCodes.Status201Created, response);
+        return StatusCode(
+            StatusCodes.Status201Created,
+            response);
     }
+
+    [HttpPost("login")]
+    public async Task<IActionResult> Login(
+        [FromBody] LoginRequestDTO request)
+    {
+        var validation = await _loginValidator.ValidateAsync(request);
+
+        if (!validation.IsValid)
+        {
+            var errors = validation.Errors
+                .GroupBy(e => e.PropertyName)
+                .ToDictionary(
+                    group => group.Key,
+                    group => group.Select(e => e.ErrorMessage).ToArray());
+
+            return ValidationProblem(new ValidationProblemDetails(errors));
+        }
+
+        var response = await _authService.LoginAsync(request);
+
+        if (response is null)
+        {
+            return Unauthorized(new
+            {
+                Message = "Invalid email or password, or sign-in is unavailable."
+            });
+        }
+
+        return Ok(response);
+    }
+
 }

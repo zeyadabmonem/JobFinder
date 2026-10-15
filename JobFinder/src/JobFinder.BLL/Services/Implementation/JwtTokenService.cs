@@ -51,7 +51,6 @@ namespace JobFinder.BLL.Services.Implementation
                 );
 
             return new JwtSecurityTokenHandler().WriteToken(token);
-
         }
     }
 }
