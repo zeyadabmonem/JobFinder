@@ -1,12 +1,11 @@
-
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using JobFinder.API.Extensions;
+using JobFinder.BLL.Services.Implementation;
+using JobFinder.BLL.Services.Interface;
+using JobFinder.BLL.Validators;
 using JobFinder.DAL.Data.Context;
-using JobFinder.DAL.Entities;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
-using System.Text;
 
 namespace JobFinder.PL
 {
@@ -20,24 +19,24 @@ namespace JobFinder.PL
 
             builder.Services.AddControllers();
 
-
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(
                     builder.Configuration.GetConnectionString("DefaultConnection")
                 )
             );
 
+            builder.Services.AddScoped<IJwtTokenService, JwtTokenService>();
+            builder.Services.AddScoped<IAuthService, AuthService>();
+
+            builder.Services.AddValidatorsFromAssemblyContaining<RegisterDTOValidator>();
 
             builder.Services.AddOpenApi();
-
 
             // Identity Configuration
             builder.Services.AddIdentityServices();
 
             // JWT Configuration
-            builder.Services.AddJwtAuthentication(builder.Configuration); 
-
-
+            builder.Services.AddJwtAuthentication(builder.Configuration);
 
             var app = builder.Build();
 
@@ -50,7 +49,6 @@ namespace JobFinder.PL
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseAuthorization();
-
 
             app.MapControllers();
 

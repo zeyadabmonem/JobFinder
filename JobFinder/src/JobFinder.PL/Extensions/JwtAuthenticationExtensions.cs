@@ -1,4 +1,4 @@
-﻿using JobFinder.API.Options;
+﻿using JobFinder.BLL.Options;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;

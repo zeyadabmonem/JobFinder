@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.API.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.API.csproj|solutionrelative:jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\dtos\\auth\\registerserviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\dtos\\auth\\registerserviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\extensions\\jwtauthenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\extensions\\jwtauthenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\extensions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.PL.csproj|solutionrelative:jobfinder.pl\\extensions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.API.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.API.csproj|solutionrelative:jobfinder.pl\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\services\\implementation\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\services\\implementation\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\dtos\\auth\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\dtos\\auth\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\dtos\\auth\\jwtcreateaccesstokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\dtos\\auth\\jwtcreateaccesstokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\services\\interface\\ijwttokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\services\\interface\\ijwttokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.API.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\extensions\\jwtauthenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.API.csproj|solutionrelative:jobfinder.pl\\extensions\\jwtauthenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.bll\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86827F65-A80F-74E2-489A-2CE534F46714}|JobFinder.BLL\\JobFinder.BLL.csproj|solutionrelative:jobfinder.bll\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.API.csproj|c:\\users\\user\\documents\\github\\jobfinder\\jobfinder\\src\\jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAFDB436-62F8-EC7C-B4CE-532FF38B386C}|JobFinder.PL\\JobFinder.API.csproj|solutionrelative:jobfinder.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,72 +69,190 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
-              "RelativeDocumentMoniker": "JobFinder.PL\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
-              "RelativeToolTip": "JobFinder.PL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-14T15:36:00.244Z",
+              "Title": "RegisterServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\DTOs\\Auth\\RegisterServiceResult.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\DTOs\\Auth\\RegisterServiceResult.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\DTOs\\Auth\\RegisterServiceResult.cs",
+              "RelativeToolTip": "JobFinder.BLL\\DTOs\\Auth\\RegisterServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T01:26:24.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
-              "RelativeDocumentMoniker": "JobFinder.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
-              "RelativeToolTip": "JobFinder.PL\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Services\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\Services\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Services\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "JobFinder.BLL\\Services\\Implementation\\AuthService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:34:11.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtOptions.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Options\\JwtOptions.cs",
-              "RelativeDocumentMoniker": "JobFinder.PL\\Options\\JwtOptions.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Options\\JwtOptions.cs",
-              "RelativeToolTip": "JobFinder.PL\\Options\\JwtOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:31:40.729Z",
+              "WhenOpened": "2026-10-15T01:22:52.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "JwtAuthenticationExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
-              "RelativeDocumentMoniker": "JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
-              "RelativeToolTip": "JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwFEAAAAAAAAAAAAAAA==",
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Services\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\Services\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Services\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "JobFinder.BLL\\Services\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:30:33.157Z",
+              "WhenOpened": "2026-10-15T01:21:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
+              "RelativeDocumentMoniker": "JobFinder.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Program.cs",
+              "RelativeToolTip": "JobFinder.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T01:04:41.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IdentityServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Extensions\\IdentityServiceExtensions.cs",
-              "RelativeDocumentMoniker": "JobFinder.PL\\Extensions\\IdentityServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Extensions\\IdentityServiceExtensions.cs",
-              "RelativeToolTip": "JobFinder.PL\\Extensions\\IdentityServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JobFinder.PL\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JobFinder.PL\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:28:12.345Z"
+              "WhenOpened": "2026-10-15T01:24:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\DTOs\\Auth\\RegisterResponseDTO.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\DTOs\\Auth\\RegisterResponseDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\DTOs\\Auth\\RegisterResponseDTO.cs*",
+              "RelativeToolTip": "JobFinder.BLL\\DTOs\\Auth\\RegisterResponseDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T01:20:09.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Services\\Implementation\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\Services\\Implementation\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Services\\Implementation\\JwtTokenService.cs",
+              "RelativeToolTip": "JobFinder.BLL\\Services\\Implementation\\JwtTokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:51:17.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Validators\\RegisterDTOValidator.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\Validators\\RegisterDTOValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Validators\\RegisterDTOValidator.cs",
+              "RelativeToolTip": "JobFinder.BLL\\Validators\\RegisterDTOValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T01:17:41.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "RelativeToolTip": "JobFinder.BLL\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T01:13:33.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "JobFinder.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\appsettings.json",
+              "RelativeToolTip": "JobFinder.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T01:07:44.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtCreateAccessTokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\DTOs\\Auth\\JwtCreateAccessTokenDTO.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\DTOs\\Auth\\JwtCreateAccessTokenDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\DTOs\\Auth\\JwtCreateAccessTokenDTO.cs",
+              "RelativeToolTip": "JobFinder.BLL\\DTOs\\Auth\\JwtCreateAccessTokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:49:11.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJwtTokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Services\\Interface\\IJwtTokenServices.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\Services\\Interface\\IJwtTokenServices.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Services\\Interface\\IJwtTokenServices.cs",
+              "RelativeToolTip": "JobFinder.BLL\\Services\\Interface\\IJwtTokenServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:45:30.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtAuthenticationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
+              "RelativeDocumentMoniker": "JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
+              "RelativeToolTip": "JobFinder.PL\\Extensions\\JwtAuthenticationExtensions.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:37:53.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Options\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "JobFinder.BLL\\Options\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\JobFinder\\JobFinder\\src\\JobFinder.BLL\\Options\\JwtOptions.cs",
+              "RelativeToolTip": "JobFinder.BLL\\Options\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:38:06.648Z",
+              "EditorCaption": ""
             }
           ]
         }
